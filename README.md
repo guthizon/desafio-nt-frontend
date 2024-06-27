@@ -14,8 +14,8 @@ Certifique-se de ter os seguintes itens instalados em sua máquina:
 1. Clone o repositório:
 
 ```sh
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/guthizon/desafio-nt-frontend.git
+cd https://github.com/guthizon/desafio-nt-frontend.git
 ```
 
 2. Instale as dependências do projeto:

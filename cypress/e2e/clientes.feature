@@ -1,6 +1,6 @@
-Feature: Adicionar Cliente
+Feature: Manter Clientes
 
-  Scenario: Adicionar novo cliente
+  Scenario: Adicionar cliente
     Given que eu acesso a página do grocery crud
     When eu mudo a versão para "Bootstrap V4 Theme"
     And eu clico para adicionar novo cliente
